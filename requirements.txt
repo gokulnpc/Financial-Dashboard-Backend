@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain_pinecone
+langchain_openai
+langchain_community
+reportlab
+python-multipart
+pypdf
